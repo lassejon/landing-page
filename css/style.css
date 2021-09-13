@@ -4,6 +4,23 @@ img {
     border-radius: 10px;
 }
 
+.width {
+    width: 1450px;
+}
+
+.left {
+    margin-left: 200px;
+}
+
+.right {
+    margin-right: 200px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
 #desc-img {
     border-radius: 0px;
     width: 530px;
@@ -18,14 +35,6 @@ body {
     justify-content: center;
     margin: 0;
     padding: 0;
-}
-
-.left {
-    margin-left: 350px;
-}
-
-.right {
-    margin-right: 350px;
 }
 
 .header {
@@ -81,8 +90,6 @@ body {
 .quote {
     padding-top: 100px;
     padding-bottom: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
