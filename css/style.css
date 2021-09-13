@@ -12,6 +12,7 @@ img {
 }
 
 body {
+    font-family: Helvetica, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
